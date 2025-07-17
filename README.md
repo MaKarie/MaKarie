@@ -1,14 +1,9 @@
-# 🏄‍♂️ Makarie
+# 🏊🚴🏃 Makarie
 
 **`Digital Athlete (Triathlete/Coder)`**
 
-I'm an aspiring full-stack developer and ironman trainee trying to build my dreamt of future a day at a time. Taking the time to learn how to code while im young. One day with my consistancy I hope to reach my goals.
+I’m an aspiring full-stack developer and Ironman trainee, building my dream future one day at a time. I’m taking the time to learn how to code while I’m young. With consistency, I hope to reach my goals.
 
-   <p align="left">
-      <a href="https://github.com/Makarie?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/MaKarie?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
